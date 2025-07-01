@@ -43,3 +43,11 @@ The project involves:
 ---
 
 ## 📁 Project Structure
+- **Introduction** 
+- **Background and Theoretical Foundations** (Looking at Maths behinds SVMs, CNNs, BNNs as well as HOG feature extraction)
+- **Methodolgy** (Applying models explored on preprocessed dataset containing MRI scans of brains)
+- **Results** (Present models performance)
+- **Discussion**
+---
+
+## Example Image of Dataset
