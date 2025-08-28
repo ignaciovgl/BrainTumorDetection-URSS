@@ -2,6 +2,9 @@
 
 This repository contains my work from a summer research project at the University of Warwick, as part of the Undergraduate Research Support Scheme (URSS). The goal of the project was to explore machine learning models for detecting brain tumors in medical images (MRI scans).
 
+You can try my final BCNN model with this link:
+https://huggingface.co/spaces/ignaciovgl/Brain_Tumor_Classification_Using_BCNN
+
 ---
 
 ## 🎯 Project Goals
