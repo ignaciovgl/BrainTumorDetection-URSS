@@ -71,6 +71,6 @@ The BCNN model, also based on ResNet-18, matched the standard CNN's accuracy wit
 ---
 
 ## Example Image of Dataset
-
+![Example Image](Meningioma.jpeg)
 
 
